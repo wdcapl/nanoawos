@@ -6,7 +6,7 @@ The idea of NanoAWOS is to be assabled with minimal knowledge into electronics, 
 
 # Features
 - Read wundergrund station wind with 4 click (stand-alone)
-- Read wundergrund station weather with 6 clicks (stand-alone).
+- Read wundergrund station weather(wind, temp, qnh, density altitude etc) with 6 clicks (stand-alone).
 - Stream over the IP network sounds and Text To Speech with Music Player Daemon to the Yaesu 
 - Transfer PTT and busy messages over MQTT to Homeassistant
 - Create your automation use-cases with home assistant and flight radar on your ATZ area and read:
