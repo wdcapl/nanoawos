@@ -3,6 +3,8 @@ Nano Automated Weather Observing System is a small platform based on NanoPI NEO 
 
 # Vision
 The idea of NanoAWOS is to be assabled with minimal knowledge into electronics, soldering by utilising a ready NanoPI Neo complete starter kit  by FriendlyELEC (https://www.friendlyelec.com/index.php?route=product/product&product_id=190) 
+and be either stand-alone or connected to Home Assistant where flightradar/flightaware with dump1090 and rtl433 can be use to create automation use-cases in small CTAF/non-towered/ATZ areas. 
+NanoAWOS is utilising the sound card microphone and that can be used for future voice-to-test->AI use-cases. 
 
 # Features
 - Read wundergrund station wind with 4 click (stand-alone)
