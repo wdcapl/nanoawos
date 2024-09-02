@@ -21,3 +21,9 @@ NanoAWOS is utilising the sound card microphone and that can be used for future 
 
 # What you need
 - NanoPI Neo complete starter kit  by FriendlyELEC (https://www.friendlyelec.com/index.php?route=product/product&product_id=190) 
+
+
+# Disclaimer
+This project is an open-source initiative designed specifically for small aviation purposes. It is important to note that this project has not been certified, endorsed, or approved by any aviation regulatory authorities, including but not limited to the International Civil Aviation Organization (ICAO) or the Federal Aviation Administration (FAA).
+
+Users are responsible for ensuring compliance with all applicable laws, regulations, and safety standards when using this project. This software is provided "as-is," without any express or implied warranties, including but not limited to the implied warranties of merchantability and fitness for a particular purpose. The use of this software is entirely at your own risk.
