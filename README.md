@@ -23,7 +23,8 @@ NanoAWOS is utilising the sound card microphone and that can be used for future 
 - NanoPI Neo complete starter kit  by FriendlyELEC (https://www.friendlyelec.com/index.php?route=product/product&product_id=190)
 - 1x 4 pin/pole jack 17,5mm to RCA (https://pl.aliexpress.com/item/1005005704133516.html?spm=a2g0o.order_detail.order_detail_item.4.158543cepoLrPJ&gatewayAdapt=glo2pol)
 [![jack17](https://github.com/wdcapl/nanoawos/blob/main/img/4pin17jack.png?raw=true)](https://github.com/wdcapl/nanoawos/blob/main/img/4pin17jack.png?raw=true)
-- Panasonic AQY211EH Silicon Relay [![relay](https://sigma.octopart.com/cdn-cgi/image/width=75,fit=contain,quality=85,format=auto/23734562/image/Panasonic-AQY211EH.jpg)](https://octopart.com/aqy211eh-panasonic-5821337?gad_source=1&gclid=CjwKCAjwxNW2BhAkEiwA24Cm9A9iLzQBnr-M53DJD7saN16iJo81ng_fFqXxew6HBorU-vJghnyuRxoCYtwQAvD_BwE)
+- Panasonic AQY211EH Silicon Relay 
+[![relay](https://sigma.octopart.com/cdn-cgi/image/width=75,fit=contain,quality=85,format=auto/23734562/image/Panasonic-AQY211EH.jpg)](https://octopart.com/aqy211eh-panasonic-5821337?gad_source=1&gclid=CjwKCAjwxNW2BhAkEiwA24Cm9A9iLzQBnr-M53DJD7saN16iJo81ng_fFqXxew6HBorU-vJghnyuRxoCYtwQAvD_BwE)
 
 # Assembly
 
