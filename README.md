@@ -2,8 +2,8 @@
 Nano Automated Weather Observing System is a small platform based on NanoPI NEO v1.4 designed to be connected with YAESU FT550 (or similar) to transfer over the air AWOS information triggered by radio button clicks (PTT clicks).
 
 # Vision
-The idea of NanoAWOS is to be assabled with minimal knowledge into electronics, soldering by utilising a ready NanoPI Neo complete starter kit  by FriendlyELEC (https://www.friendlyelec.com/index.php?route=product/product&product_id=190) 
-and be either stand-alone or connected to Home Assistant where flightradar/flightaware with dump1090 and rtl433 can be use to create automation use-cases in small CTAF/non-towered/ATZ areas. 
+The idea of NanoAWOS is to be assabled with minimal knowledge into electronics and soldering, by utilising a ready NanoPI Neo complete starter kit  by FriendlyELEC (https://www.friendlyelec.com/index.php?route=product/product&product_id=190) 
+and be either stand-alone or connected to Home Assistant where flightradar/flightaware with dump1090 and rtl433 can be used to create automation use-cases in small CTAF/non-towered/ATZ areas. 
 NanoAWOS is utilising the sound card microphone and that can be used for future voice-to-test->AI use-cases. 
 
 # Features
