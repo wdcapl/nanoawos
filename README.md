@@ -55,6 +55,7 @@ Final result after using the glue gun:
 1. There is a pin plastic cover you need to remove
 2. Rip the metal connector and put the plastic cover back in.
 3. The PTT channel should not be connected to the mainboard, we will utilise it for the relay that will be triggered by GPIO
+[![pttpin](https://github.com/wdcapl/nanoawos/blob/main/img/ptt_pin.png?raw=true)](https://github.com/wdcapl/nanoawos/blob/main/img/ptt_pin.png?raw=true)
 
 ## Solder the silicon relay to the PTT and GPIO pins. 
 
