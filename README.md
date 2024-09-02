@@ -61,7 +61,12 @@ Final result after using the glue gun:
 [![pttpin](https://github.com/wdcapl/nanoawos/blob/main/img/ptt_pin.png?raw=true)](https://github.com/wdcapl/nanoawos/blob/main/img/ptt_pin.png?raw=true)
 
 ## Solder the silicon relay to the PTT and GPIO pins. 
-
+1. Use the following schema
+[![relayschema](https://github.com/wdcapl/nanoawos/blob/main/img/relayschema.png?raw=true)](https://github.com/wdcapl/nanoawos/blob/main/img/relayschema.png?raw=true)
+2. Please refer to the nanohat schema to confirm all is good (https://wiki.friendlyelec.com/wiki/index.php/NanoPi_NEO#Diagram.2C_Layout_and_Dimension)
+3. Final result should be something like this
+[![final1](https://github.com/wdcapl/nanoawos/blob/main/img/relay.JPEG?raw=true)](https://github.com/wdcapl/nanoawos/blob/main/img/relay.JPEG?raw=true)
+[![final2](https://github.com/wdcapl/nanoawos/blob/main/img/final.JPEG?raw=true)](https://github.com/wdcapl/nanoawos/blob/main/img/final.JPEG?raw=true)
 
 # Disclaimer
 This project is an open-source initiative designed specifically for small aviation purposes. It is important to note that this project has not been certified, endorsed, or approved by any aviation regulatory authorities, including but not limited to the International Civil Aviation Organization (ICAO) or the Federal Aviation Administration (FAA).
