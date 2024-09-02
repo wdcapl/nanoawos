@@ -42,6 +42,7 @@ By using the 17mm jack we are able to extend the standard 3pin stereo jack with 
 6. Check with a voltometer if all pins work.
 7. If all works fine glue the jack socket.
 8. Wait 3 min. Check with the voltometer and put the jack in and out to try to see if your new socket works :)
+9. This ping should go to the microphone pins of the nanohat
 
 It *should* be something like this(it is from one of my many attempts). It should bend more to the right as there is an ethernet port (this is why this attempt did not work ;) )
 [![spring](https://github.com/wdcapl/nanoawos/blob/main/img/jack1.JPEG?raw=true)](https://github.com/wdcapl/nanoawos/blob/main/img/jack1.JPEG?raw=true)
