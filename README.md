@@ -54,6 +54,7 @@ Final result after using the glue gun:
 ## Remove one of the stereo channel connections to the main board to use it for PTT
 1. There is a pin plastic cover you need to remove
 2. Rip the metal connector and put the plastic cover back in.
+[![rippin](https://github.com/wdcapl/nanoawos/blob/main/img/PTT_PIn.JPEG?raw=true)](https://github.com/wdcapl/nanoawos/blob/main/img/PTT_PIn.JPEG?raw=true)
 3. The PTT channel should not be connected to the mainboard, we will utilise it for the relay that will be triggered by GPIO
 [![pttpin](https://github.com/wdcapl/nanoawos/blob/main/img/ptt_pin.png?raw=true)](https://github.com/wdcapl/nanoawos/blob/main/img/ptt_pin.png?raw=true)
 
