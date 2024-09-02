@@ -1,0 +1,10 @@
+[Unit]
+Description=Tap Service
+After=multi-user.target
+[Service]
+Type=simple
+Restart=always
+ExecStart=/usr/bin/python3 /sbin/tap.py
+Environment=PYTHONUNBUFFERED=1
+[Install]
+WantedBy=multi-user.target

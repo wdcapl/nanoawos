@@ -25,6 +25,7 @@ NanoAWOS is utilising the sound card microphone and that can be used for future 
 [![jack17](https://github.com/wdcapl/nanoawos/blob/main/img/4pin17jack.png?raw=true)](https://github.com/wdcapl/nanoawos/blob/main/img/4pin17jack.png?raw=true)
 - Panasonic AQY211EH Silicon Relay 
 [![relay](https://sigma.octopart.com/cdn-cgi/image/width=75,fit=contain,quality=85,format=auto/23734562/image/Panasonic-AQY211EH.jpg)](https://octopart.com/aqy211eh-panasonic-5821337?gad_source=1&gclid=CjwKCAjwxNW2BhAkEiwA24Cm9A9iLzQBnr-M53DJD7saN16iJo81ng_fFqXxew6HBorU-vJghnyuRxoCYtwQAvD_BwE)
+- 100 Ohm Resistor
 - Regular 4 pin jack with RCA (this one will go to yaesu)
 - Yaesu FT-550. DC charger, no batteries needed. 
 
