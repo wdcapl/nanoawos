@@ -17,7 +17,7 @@ NanoAWOS is utilising the sound card microphone and that can be used for future 
   - Traffic taxi or short/long final 
 
 # Demo
-
+[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/fD7kZr5AIl4/mqdefault.jpg?v=66d61968&sqp=CMCy2LYG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXihRMA8=&rs=AOn4CLDl5MSHxLvJRHZshJltsfTD1HXbqA)](https://youtu.be/fD7kZr5AIl4)
 
 # What you need
 - NanoPI Neo complete starter kit  by FriendlyELEC (https://www.friendlyelec.com/index.php?route=product/product&product_id=190) 
