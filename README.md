@@ -43,8 +43,11 @@ By using the 17mm jack we are able to extend the standard 3pin stereo jack with 
 7. If all works fine glue the jack socket.
 8. Wait 3 min. Check with the voltometer and put the jack in and out to try to see if your new socket works :)
 
-It *should* be something like this(it is from one of my many attempts)
+It *should* be something like this(it is from one of my many attempts). It should bend more to the right as there is an ethernet port (this is why this attempt did not work ;) )
 [![spring](https://github.com/wdcapl/nanoawos/blob/main/img/jack1.JPEG?raw=true)](https://github.com/wdcapl/nanoawos/blob/main/img/jack1.JPEG?raw=true)
+
+Final result after using the glue gun:
+[![gluegun](https://github.com/wdcapl/nanoawos/blob/main/img/jack2.JPEG?raw=true)](https://github.com/wdcapl/nanoawos/blob/main/img/jack2.JPEG?raw=true)
 
 ## Remove one of the stereo channel connections to the main board to use it for PTT
 1. There is a pin plastic cover you need to remove
