@@ -19,6 +19,8 @@ NanoAWOS is utilising the sound card microphone and that can be used for future 
 # Demo
 [![YT_VIDEO](https://i9.ytimg.com/vi/fD7kZr5AIl4/mqdefault.jpg?v=66d61968&sqp=CMCy2LYG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXihRMA8=&rs=AOn4CLDl5MSHxLvJRHZshJltsfTD1HXbqA)](https://youtu.be/fD7kZr5AIl4)
 
+[![YT_VIDEO](https://i9.ytimg.com/vi/fD7kZr5AIl4/mqdefault.jpg?v=66d61968&sqp=CMCy2LYG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXihRMA8=&rs=AOn4CLDl5MSHxLvJRHZshJltsfTD1HXbqA)](https://www.youtube.com/watch?v=trcSWJSmVco)
+
 # What you need
 - NanoPI Neo complete starter kit  by FriendlyELEC (https://www.friendlyelec.com/index.php?route=product/product&product_id=190)
 - 1x 4 pin/pole jack 17,5mm to RCA (https://pl.aliexpress.com/item/1005005704133516.html?spm=a2g0o.order_detail.order_detail_item.4.158543cepoLrPJ&gatewayAdapt=glo2pol)
